@@ -22,9 +22,7 @@ A React Native app built with Expo for creating and managing video diaries. Sele
 
 ## Getting Started
 
-## Requirements
-
-- Node.js version **20 or higher** is required.
+**Requirements** Node.js version **20 or higher** is required.
 
 **Important:** This app requires a native build. The `expo-trim-video` module ([GitHub](https://github.com/yemirhan/expo-trim-video)) is a native Expo module that only works on iOS and Android. It does **not** work with:
 
